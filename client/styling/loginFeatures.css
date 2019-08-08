@@ -1,0 +1,80 @@
+#loginTitle {
+  position: relative;
+  top: -400px;
+  }
+  
+  #username {
+    background-color: #162327;
+    border-color: #EAC67A;
+    border-width: .075em;
+    border-radius: 15px;
+    caret-color: #EAC67A;
+    box-shadow: #171b1d 0px 15px 8px;
+    color:  #EAC67A;
+    position: absolute;
+    top: 13%;
+    left: 45%;
+  }
+  
+  #password {
+    -webkit-text-security: disc;
+    background-color: #162327;
+    border-color: #EAC67A;
+    color:  #EAC67A;
+    border-width: .075em;
+    border-radius: 15px;
+    caret-color: #EAC67A;
+    box-shadow: #171b1d 0px 15px 8px;
+    position: absolute;
+    top: 16%;
+    left: 45%;
+  }
+  
+  #userTitle {
+    position: absolute;
+    top: 13%;
+  }
+  
+  #passTitle {
+    position: absolute;
+    top: 13%;
+  }
+  
+  #submit {
+    position: absolute;
+    background-color: #162327;
+    border-color: #EAC67A;
+    color:  #EAC67A;
+    border-width: .075em;
+    border-radius: 15px;
+    caret-color: #EAC67A;
+    box-shadow: #171b1d 0px 15px 8px;
+    top: 20%;
+    left: 45%;
+  }
+
+  #signUpButton {
+    position: absolute;
+    background-color: #162327;
+    border-color: #EAC67A;
+    color:  #EAC67A;
+    border-width: .075em;
+    border-radius: 15px;
+    caret-color: #EAC67A;
+    box-shadow: #171b1d 0px 15px 8px;
+    top: 22.5%;
+    left: 45%;
+  }
+
+  #CreateAccount {
+    position: absolute;
+    background-color: #162327;
+    border-color: #EAC67A;
+    color:  #EAC67A;
+    border-width: .075em;
+    border-radius: 15px;
+    caret-color: #EAC67A;
+    box-shadow: #171b1d 0px 15px 8px;
+    top: 22.5%;
+    left: 45%;
+  }
