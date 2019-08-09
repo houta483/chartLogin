@@ -1,12 +1,15 @@
 #loginTitle {
   position: relative;
   top: -400px;
+  font-family: 'Poppins';
   }
   
   #username {
+    padding-left: 10px;
     background-color: #162327;
     border-color: #EAC67A;
     border-width: .075em;
+    font-family: 'Poppins';
     border-radius: 15px;
     caret-color: #EAC67A;
     box-shadow: #171b1d 0px 15px 8px;
@@ -17,10 +20,12 @@
   }
   
   #password {
+    padding-left: 10px;
     -webkit-text-security: disc;
     background-color: #162327;
     border-color: #EAC67A;
     color:  #EAC67A;
+    font-family: 'Poppins';
     border-width: .075em;
     border-radius: 15px;
     caret-color: #EAC67A;
@@ -45,6 +50,7 @@
     background-color: #162327;
     border-color: #EAC67A;
     color:  #EAC67A;
+    font-family: 'Poppins';
     border-width: .075em;
     border-radius: 15px;
     caret-color: #EAC67A;
@@ -59,6 +65,7 @@
     border-color: #EAC67A;
     color:  #EAC67A;
     border-width: .075em;
+    font-family: 'Poppins';
     border-radius: 15px;
     caret-color: #EAC67A;
     box-shadow: #171b1d 0px 15px 8px;
@@ -72,6 +79,7 @@
     border-color: #EAC67A;
     color:  #EAC67A;
     border-width: .075em;
+    font-family: 'Poppins';
     border-radius: 15px;
     caret-color: #EAC67A;
     box-shadow: #171b1d 0px 15px 8px;
